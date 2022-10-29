@@ -248,14 +248,15 @@ footer {
 #lead-content h1 {
   color: #fff;
   font-weight: 900;
-  font-size: 5em;
+  font-size: 4em;
   line-height: 0.9em;
 }
 #lead-content h2 {
-  color: #a0cfee;
+  color: white;
   font-weight: 500;
   font-size: 2.25em;
   margin-bottom: 15px;
+  letter-spacing: 0.1cm;
 }
 #lead-overlay {
   position: absolute;
@@ -373,7 +374,7 @@ footer {
 }
 .vtimeline-content p {
   color: #74808a;
-  font-size: 0.9em;
+  font-size: 1em;
   margin: 0;
 }
 .vtimeline-point {
@@ -480,11 +481,12 @@ footer {
   font-weight: 300;
   color: #374054;
   margin: 0 0 15px 0;
+  letter-spacing: 0.1cm;
 }
 .project-info p {
   color: #74808a;
   margin: 0 0 15px 0;
-  font-size: 0.9em;
+  font-size: 1.1em;
 }
 .no-image .project-info {
   position: relative;
